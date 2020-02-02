@@ -11,6 +11,8 @@ This is a reviw of the package [SimFinR](https://github.com/msperlin/simfinR/).
 
 This package was released to [CRAN](https://cran.r-project.org/web/packages/simfinR/index.html) at the end of 2019 for v 0.1.0, and is a wrapper for the [SimFin](https://simfin.com/) project, whose mission statement of of prodiving cleaned, standardized data from EDGAR and stock information to help reduce barriers for learning algorithms and new investors. If you are interested in the SimFin API information, that can be found [here](https://simfin.com/api/v1/documentation/).
 
+If you would like this RMarkdown document, that can be found [here](https://github.com/willcrouch/SimFinReview).
+
 Please download the .rmd file and play around with this package, it looks like it will be a solid addition to any finance R user.
 
 ```{r echo = FALSE}
